@@ -8,7 +8,7 @@
 
 *Note: The source code is currently undergoing final refactoring following my bachelor's thesis defense (July 2026). The complete codebase, including TensorRT compilation scripts and custom dataset pipelines, will be made fully public shortly.*
 
-![](docs/demo.mp4)
+https://github.com/user-attachments/assets/531a8a64-148a-4106-9fde-620d44585e0f
 
 ---
 
