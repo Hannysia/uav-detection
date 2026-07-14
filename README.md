@@ -9,10 +9,7 @@
 *Note: The source code is currently undergoing final refactoring following my bachelor's thesis defense (July 2026). The complete codebase, including TensorRT compilation scripts and custom dataset pipelines, will be made fully public shortly.*
 
 <p align="center">
-  <video width="750" autoplay loop muted playsinline>
-    <source src="https://raw.githubusercontent.com/Hannysia/uav-detection/main/docs/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="docs/demo.mp4" width="750">
 </p>
 
 ---
