@@ -10,7 +10,7 @@
 
 <p align="center">
   <video width="750" autoplay loop muted playsinline>
-    <source src="docs/demo.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/Hannysia/uav-detection/main/docs/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
