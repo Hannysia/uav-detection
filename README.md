@@ -8,9 +8,7 @@
 
 *Note: The source code is currently undergoing final refactoring following my bachelor's thesis defense (July 2026). The complete codebase, including TensorRT compilation scripts and custom dataset pipelines, will be made fully public shortly.*
 
-<p align="center">
-  <img src="docs/demo.mp4" width="750">
-</p>
+![](docs/demo.mp4)
 
 ---
 
